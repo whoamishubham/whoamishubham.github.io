@@ -1,0 +1,87 @@
+{
+    "data":{
+        "educations":[
+            {
+                "id":1,
+                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/uit.jpg",
+                "content": "<li>&#9679;&nbsp;  Final Year Undergraduate Student at <a href='http://www.uitrgpv.ac.in'>Unversity Institute of Technology </a></li><li>&#9679;&nbsp; Information Technology Major</li>"
+            },
+            {
+                "id":2,
+                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/pdcp.jpg",
+                "content": "<li>&#9679; &nbsp;  Intermediate Degree from <a href='http://pdcpcollege.in/'>P.D.C.P College, Basaith Benipatti</a></li><li>&#9679;&nbsp; Subjects Physics, Chemistry, Math, Maithili, Hindi and English</li>"
+            }
+
+        ]
+        ,
+        "projects":[
+            {
+                "id":1,
+                "name":" Web IDE ",
+                "url":"https://github.com/whoami-shubham/online_ide",
+                "isdemo":null,
+                "demo":"https://github.com/whoami-shubham/online_ide",
+                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/ide.PNG",
+                "content":""
+
+            },
+            {
+                "id":2,
+                "name":" Summer of Code",
+                "url":"https://github.com/whoami-shubham/Summer_of_Code",
+                "isdemo":true,
+                "demo":"https://summerofcodeatuit.github.io/2019/",
+                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/soc.PNG",
+                "content":""
+
+            },
+            {
+                "id":3,
+                "name":"Machine-Learning using 🐍",
+                "url":"https://github.com/whoami-shubham/Machine-Learning",
+                "isdemo":null,
+                "demo":"https://github.com/whoami-shubham/Machine-Learning",
+                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/ml.png",
+                "content":""
+
+            },
+            {
+                "id":4,
+                "name":"Algorithms Library",
+                "url":"https://github.com/whoami-shubham/Algos-and-Problems",
+                "demo":"https://github.com/whoami-shubham/Algos-and-Problems",
+                "isdemo":null,
+                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/c++.png",
+                "content":""
+
+            },
+            {
+                "id":5,
+                "name":"Question and Answer Site",
+                "url":"https://github.com/whoami-shubham/QnA-site",
+                "demo":"https://whoami-shubham.github.io/QnA-site",
+                "isdemo":true,
+                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/qna.PNG",
+                "content":""
+
+            }
+        ],
+        "articles":[
+            {
+                "id":1,
+                "title":"How to Compair Two Algorithms",
+                "url":"https://whoami-shubham.github.io/design/2018/11/17/how-to-compair-two-algorithms.html",
+                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/algo.jpg",
+                "content":""
+            }
+            ,
+            {
+                "id":2,
+                "title":"how to preprocess data for regression model",
+                "url":"https://whoami-shubham.github.io/design/2019/02/25/how-to-preprocess-data-for-regression-model.html",
+                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/data.png",
+                "content":""
+            }
+        ]
+    }
+}

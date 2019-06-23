@@ -18,10 +18,10 @@
             {
                 "id":1,
                 "name":" Web IDE ",
-                "url":"https://github.com/whoami-shubham/online_ide",
+                "url":"https://github.com/whoami-shubham/codeadept_2.0_IDE",
                 "isdemo":null,
                 "demo":"https://github.com/whoami-shubham/online_ide",
-                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/ide.PNG",
+                "img_url":"https://raw.githubusercontent.com/whoami-shubham/codeadept_2.0_IDE/master/coding_area.png",
                 "content":""
 
             },

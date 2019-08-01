@@ -47,11 +47,11 @@
             },
             {
                 "id":4,
-                "name":"Algorithms Library",
-                "url":"https://github.com/whoami-shubham/Algos-and-Problems",
-                "demo":"https://github.com/whoami-shubham/Algos-and-Problems",
-                "isdemo":null,
-                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/c++.png",
+                "name":"BookRepo",
+                "url":"https://github.com/whoami-shubham/BookRepo",
+                "demo":"https://whoami-shubham.github.io/BookRepo/",
+                "isdemo":true,
+                "img_url":"https://raw.githubusercontent.com/whoami-shubham/BookRepo/master/ui.PNG",
                 "content":""
 
             },

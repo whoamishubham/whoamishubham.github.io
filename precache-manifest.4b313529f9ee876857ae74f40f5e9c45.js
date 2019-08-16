@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "388be89804cb3ce528cf781fd37c7d3c",
+    "revision": "8f33e5e0463cf0b2dbdd38e791aae00e",
     "url": "/index.html"
   },
   {
-    "revision": "ccb50bd2355065627aad",
-    "url": "/static/css/main.af03a9ae.chunk.css"
+    "revision": "295db26b6a504c06bd75",
+    "url": "/static/css/main.6b394a20.chunk.css"
   },
   {
     "revision": "61fe5a023c52aa704a51",
     "url": "/static/js/2.f24aae57.chunk.js"
   },
   {
-    "revision": "ccb50bd2355065627aad",
-    "url": "/static/js/main.d015f949.chunk.js"
+    "revision": "295db26b6a504c06bd75",
+    "url": "/static/js/main.3d04b77a.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d4d36b7f0b7895c4ed1795077579a77a",
     "url": "/static/media/banner2.d4d36b7f.jpg"
+  },
+  {
+    "revision": "2363f9ba89fc0df668e1aa2123cec4da",
+    "url": "/static/media/codechef.2363f9ba.png"
   },
   {
     "revision": "73f760909d47cc216757bc2f2ef3eae9",

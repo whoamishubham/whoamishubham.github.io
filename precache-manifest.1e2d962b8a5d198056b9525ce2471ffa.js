@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d544bf5f775978bf4df37805fc3910a",
+    "revision": "51d9fea2fe305f489e11559d2bb77434",
     "url": "/index.html"
   },
   {
-    "revision": "dfbe687ca0a0b8dd38b3",
-    "url": "/static/css/main.75c0dd1f.chunk.css"
+    "revision": "c2c11c9642ff33bfa2c8",
+    "url": "/static/css/main.37df1872.chunk.css"
   },
   {
-    "revision": "61fe5a023c52aa704a51",
-    "url": "/static/js/2.f24aae57.chunk.js"
+    "revision": "0bb7ca40b1f31e359964",
+    "url": "/static/js/2.1800ee17.chunk.js"
   },
   {
-    "revision": "dfbe687ca0a0b8dd38b3",
-    "url": "/static/js/main.a9c39c42.chunk.js"
+    "revision": "c2c11c9642ff33bfa2c8",
+    "url": "/static/js/main.3eb0e4f8.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2363f9ba89fc0df668e1aa2123cec4da",
     "url": "/static/media/codechef.2363f9ba.png"
+  },
+  {
+    "revision": "2db0d88cea7a3cef82deba04d4c9f354",
+    "url": "/static/media/gmail.2db0d88c.ico"
   },
   {
     "revision": "73f760909d47cc216757bc2f2ef3eae9",

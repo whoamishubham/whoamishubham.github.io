@@ -15,6 +15,16 @@
         ]
         ,
         "projects":[
+            {
+                "id":8,
+                "name":"Real time chat app using flutter and go",
+                "url":"https://github.com/whoami-shubham/chatapp",
+                "demo":"https://raw.githubusercontent.com/whoami-shubham/chatapp/master/chatapp.gif",
+                "isdemo":true,
+                "img_url":"https://raw.githubusercontent.com/whoami-shubham/chatapp/master/chatapp.gif",
+                "content":""
+
+            },
             
             {
                 "id":0,

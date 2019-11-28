@@ -16,6 +16,17 @@
         ,
         "projects":[
             {
+                "id":9,
+                "name":"Web Terminal",
+                "url":"https://github.com/whoami-shubham/web_terminal",
+                "demo":"https://whoami-shubham.github.io/web_terminal",
+                "isdemo":true,
+                "img_url":"https://raw.githubusercontent.com/whoami-shubham/web_terminal/master/web_terminal.PNG",
+                "content":""
+
+            },
+            
+            {
                 "id":8,
                 "name":"Real time chat app using flutter and go",
                 "url":"https://github.com/whoami-shubham/chatapp",

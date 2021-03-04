@@ -98,36 +98,6 @@
 
             },
             {
-                "id":4,
-                "name":"Algos-and-Problems",
-                "url":"https://github.com/whoami-shubham/Algos-and-Problems",
-                "isdemo":null,
-                "demo":"https://github.com/whoami-shubham/Algos-and-Problems",
-                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/AnP.PNG",
-                "content":""
-
-            },
-            {
-                "id":5,
-                "name":"Question and Answer Site",
-                "url":"https://github.com/whoami-shubham/QnA-site",
-                "demo":"https://whoami-shubham.github.io/QnA-site",
-                "isdemo":true,
-                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/qna.PNG",
-                "content":""
-
-            },
-            {
-                "id":6,
-                "name":"Machine-Learning using 🐍",
-                "url":"https://github.com/whoami-shubham/Machine-Learning",
-                "isdemo":null,
-                "demo":"https://github.com/whoami-shubham/Machine-Learning",
-                "img_url":"https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/ml.png",
-                "content":""
-
-            },
-            {
                 "id":7,
                 "name":" Web IDE ",
                 "url":"https://github.com/whoami-shubham/codeadept_2.0_IDE",

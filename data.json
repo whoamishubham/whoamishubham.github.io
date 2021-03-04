@@ -26,16 +26,6 @@
 
             },
             {
-                "id":10,
-                "name":"Vyomology",
-                "url":"https://vyomology.com",
-                "demo":"https://vyomology.com",
-                "isdemo":true,
-                "img_url":"https://lh3.googleusercontent.com/proxy/lKcpwftjeL4w8l493C4E1JxNqgbmhxAkqbY788PAw6Ms4rGE6cZNrkPT30nJYBA5ilrL2GMglJMhSH1g5-pWqeZ44wG3vQz-NYIZRV-2Tq21fdvq5kOs6ZaXOZzf6ZgPIXo",
-                "content":"Astrology site freelance work"
-
-            },
-            {
                 "id":9,
                 "name":"Web Terminal",
                 "url":"https://github.com/whoami-shubham/web_terminal",
@@ -45,18 +35,6 @@
                 "content":""
 
             },
-            
-            {
-                "id":8,
-                "name":"Real time chat app using flutter and go",
-                "url":"https://github.com/whoami-shubham/chatapp",
-                "demo":"https://raw.githubusercontent.com/whoami-shubham/chatapp/master/chatapp.gif",
-                "isdemo":true,
-                "img_url":"https://raw.githubusercontent.com/whoami-shubham/chatapp/master/chatapp.gif",
-                "content":""
-
-            },
-            
             {
                 "id":0,
                 "name":"Organization registration site",
@@ -74,7 +52,7 @@
                 "demo":"https://whoami-shubham.github.io/find-falcone/",
                 "isdemo":true,
                 "img_url":"https://raw.githubusercontent.com/whoami-shubham/find-falcone/master/img.png",
-                "content":""
+                "content":"frontend task"
 
             },
             {
@@ -84,7 +62,7 @@
                 "demo":"https://whoami-shubham.github.io/BookRepo/",
                 "isdemo":true,
                 "img_url":"https://raw.githubusercontent.com/whoami-shubham/BookRepo/master/ui.PNG",
-                "content":""
+                "content":"frontend task"
 
             },
             {
@@ -106,7 +84,29 @@
                 "img_url":"https://raw.githubusercontent.com/whoami-shubham/codeadept_2.0_IDE/master/coding_area.png",
                 "content":""
 
-            }
+            },
+              
+            {
+                "id":8,
+                "name":"Real time chat app using flutter and go",
+                "url":"https://github.com/whoami-shubham/chatapp",
+                "demo":"https://raw.githubusercontent.com/whoami-shubham/chatapp/master/chatapp.gif",
+                "isdemo":true,
+                "img_url":"https://raw.githubusercontent.com/whoami-shubham/chatapp/master/chatapp.gif",
+                "content":"Mobile App"
+
+            },
+            
+             {
+                "id":10,
+                "name":"Vyomology",
+                "url":"https://vyomology.com",
+                "demo":"https://vyomology.com",
+                "isdemo":true,
+                "img_url":"https://lh3.googleusercontent.com/proxy/lKcpwftjeL4w8l493C4E1JxNqgbmhxAkqbY788PAw6Ms4rGE6cZNrkPT30nJYBA5ilrL2GMglJMhSH1g5-pWqeZ44wG3vQz-NYIZRV-2Tq21fdvq5kOs6ZaXOZzf6ZgPIXo",
+                "content":"Astrology site freelance work, they modified the style now it is looking worse."
+
+            },
             
         ],
         "articles":[

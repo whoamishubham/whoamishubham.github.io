@@ -12,7 +12,7 @@
                 "Working mostly on React web app and React Native mobile app and some other stuff.",
               ],
               "urls": [
-                { label: "company website", src: "https://www.juakali.io" },
+                { "label": "company website", "src": "https://www.juakali.io" },
               ],
               "type": "Work Experience",
             },
@@ -26,7 +26,7 @@
                 "Worked mostly on React, Python, golang, and React native",
                 "Went through 1-month intensive Training Bootcamp hashedin University",
               ],
-              "urls": [{ label: "company website", src: "https://hashedin.com" }],
+              "urls": [{ "label": "company website", "src": "https://hashedin.com" }],
               "type": "Work Experience",
             },
             {
@@ -39,7 +39,7 @@
                 "Wrote and reviewed code for golang , dart using flutter,apused GRPC (proto 3).",
               ],
               "urls": [
-                { label: "company website", src: "https://www.appointy.com/" },
+                { "label": "company website", "src": "https://www.appointy.com/" },
               ],
               "type": "Work Experience",
             },

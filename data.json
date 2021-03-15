@@ -3,45 +3,45 @@
         "bio":"Web & Mobile App Developer",
         "exp":[
             {
-              title: "Software Developer",
-              org: "Juakali.io",
-              duration: "Jun 2020 - present",
-              imgUrl: "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/juakali.png",
-              location: "Remote",
-              description: [
+              "title": "Software Developer",
+              "org": "Juakali.io",
+              "duration": "Jun 2020 - present",
+              "imgUrl": "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/juakali.png",
+              "location": "Remote",
+              "description": [
                 "Working mostly on React web app and React Native mobile app and some other stuff.",
               ],
-              urls: [
+              "urls": [
                 { label: "company website", src: "https://www.juakali.io" },
               ],
-              type: "Work Experience",
+              "type": "Work Experience",
             },
             {
-              title: "Software Engineering Intern",
-              org: "Hashedin Technologies",
-              duration: "Feb 2020-Apr 2020",
-              imgUrl: "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/hashedin.jpg",
-              location: "Bengaluru",
-              description: [
+              "title": "Software Engineering Intern",
+              "org": "Hashedin Technologies",
+              "duration": "Feb 2020-Apr 2020",
+              "imgUrl": "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/hashedin.jpg",
+              "location": "Bengaluru",
+              "description": [
                 "Worked mostly on React, Python, golang, and React native",
                 "Went through 1-month intensive Training Bootcamp hashedin University",
               ],
-              urls: [{ label: "company website", src: "https://hashedin.com" }],
-              type: "Work Experience",
+              "urls": [{ label: "company website", src: "https://hashedin.com" }],
+              "type": "Work Experience",
             },
             {
-              title: "Product Engineering Intern",
-              org: "Appointy",
-              duration: "Sep 2019-Oct 2019",
-              imgUrl: "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/appointy.jpg",
-              location: "Bhopal",
-              description: [
+              "title": "Product Engineering Intern",
+              "org": "Appointy",
+              "duration": "Sep 2019-Oct 2019",
+              "imgUrl": "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/appointy.jpg",
+              "location": "Bhopal",
+              "description": [
                 "Wrote and reviewed code for golang , dart using flutter,apused GRPC (proto 3).",
               ],
-              urls: [
+              "urls": [
                 { label: "company website", src: "https://www.appointy.com/" },
               ],
-              type: "Work Experience",
+              "type": "Work Experience",
             },
           ],
         "educations":[

@@ -147,9 +147,9 @@
 				"name": "Vyomology",
 				"url": "https://vyomology.com",
 				"demo": "https://vyomology.com",
-				"isdemo": true,
+				"isdemo": false,
 				"img_url": "https://play-lh.googleusercontent.com/PvJMa4-kUiavbZKTWTmVIyNDf-W-TbvGU0nJEEvepVmpE0y4YGy8VUfYC3CNAY9XBhw=s180-rw",
-				"content": "Astrology site freelance work, they have modified the style now it is looking different."
+				"content": "Astrology site freelance work, created entire frontend from scratch using react they have modified some styles and text content now."
 
 			}
 

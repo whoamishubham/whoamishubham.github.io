@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "110048dd7fcf9169b9e114ef0b309822",
+    "revision": "3c726e5ca8cef1b60dd1a8591fa0dc4a",
     "url": "/index.html"
   },
   {
-    "revision": "8680870ceed2e478404f",
-    "url": "/static/css/main.0a9ae187.chunk.css"
+    "revision": "3301427fe2eeb8f3db9f",
+    "url": "/static/css/main.49a59a20.chunk.css"
   },
   {
-    "revision": "930dd13ead877ecaade3",
-    "url": "/static/js/2.c35f64e9.chunk.js"
+    "revision": "2b45b4dc7c654c85436d",
+    "url": "/static/js/2.c02c4c52.chunk.js"
   },
   {
-    "revision": "8680870ceed2e478404f",
-    "url": "/static/js/main.e88b9b9c.chunk.js"
+    "revision": "3301427fe2eeb8f3db9f",
+    "url": "/static/js/main.378ccbed.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "72917c2234a9c41baf796c0b1fcbc200",
     "url": "/static/media/leetcode.72917c22.png"
+  },
+  {
+    "revision": "72dec4b05ef1e608228ec56e42373efd",
+    "url": "/static/media/shubham_jha_resume.72dec4b0.pdf"
   }
 ]);

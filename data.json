@@ -73,7 +73,7 @@
 				"demo": "https://whoami-shubham.github.io/web_terminal",
 				"isdemo": true,
 				"img_url": "https://raw.githubusercontent.com/whoami-shubham/web_terminal/master/web_terminal.PNG",
-				"content": ""
+				"content": "Unix like terminal"
 
 			},
 			{
@@ -83,7 +83,7 @@
 				"demo": "https://whoami-shubham.github.io/Vendor-Form/",
 				"isdemo": true,
 				"img_url": "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/vendor.PNG",
-				"content": ""
+				"content": "frontend task"
 
 			},
 			{
@@ -113,7 +113,7 @@
 				"isdemo": true,
 				"demo": "https://summerofcodeatuit.github.io/2019/",
 				"img_url": "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/soc.PNG",
-				"content": ""
+				"content": "website for Open Source software development"
 
 			},
 			{
@@ -123,7 +123,7 @@
 				"isdemo": null,
 				"demo": "https://github.com/whoami-shubham/codeadept_2.0_IDE",
 				"img_url": "https://raw.githubusercontent.com/whoami-shubham/codeadept_2.0_IDE/master/coding_area.png",
-				"content": ""
+				"content": "IDE for run programs in c,c++,java,python"
 
 			},
 

@@ -57,7 +57,7 @@
 		],
 		"projects": [{
 				"id": 11,
-				"name": "obfuscator-io-metro-pluginy",
+				"name": "obfuscator-io-metro-plugin",
 				"url": "https://github.com/whoami-shubham/obfuscator-io-metro-plugin",
 				"demo": "https://www.npmjs.com/package/obfuscator-io-metro-plugin",
 				"isdemo": true,

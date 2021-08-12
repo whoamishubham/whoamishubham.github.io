@@ -1,14 +1,31 @@
 {
 	"data": {
 		"bio": "Web & Mobile App Developer",
-		"exp": [{
-				"title": "Software Developer",
+		"exp": [
+                       {
+				"title": "SDE",
+				"org": "Rupeek",
+				"duration": "Aug 2021 - present",
+				"imgUrl": "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/rupeek.png",
+				"location": "Bangalore",
+				"description": [
+					"Working mostly on NextJs and SailsJs."
+				],
+				"urls": [{
+					"label": "company website",
+					"src": "https://rupeek.com"
+				}],
+				"type": "Work Experience"
+			},
+                      {
+				"title": "Fullstack Developer",
 				"org": "Juakali.io",
-				"duration": "Jun 2020 - present",
+				"duration": "Jun 2020 - July 2021",
 				"imgUrl": "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/juakali.png",
 				"location": "Remote",
 				"description": [
-					"Working mostly on React web app and React Native mobile app and some other stuff."
+					"Worked mostly on React web app and React Native mobile app and some other stuff.",
+                                        "Worked on Juakali Mobile app for offline use from scratch to provide similar features as web app used and integrated realm, firebase, Sentry, internationalization using I18n.js etc in Mobile app"
 				],
 				"urls": [{
 					"label": "company website",

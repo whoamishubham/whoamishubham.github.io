@@ -171,14 +171,14 @@
 		"articles": [{
 				"id": 1,
 				"title": "How to Compare Two Algorithms",
-				"url": "https://whoami-shubham.github.io/how-to-compair-two-algorithms",
+				"url": "https://whoami-shubham.github.io/posts/how-to-compair-two-algorithms/",
 				"img_url": "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/algo.jpg",
 				"content": ""
 			},
 			{
 				"id": 2,
 				"title": "how to preprocess data for regression model",
-				"url": "https://whoami-shubham.github.io/how-to-preprocess-data-for-regression-model",
+				"url": "https://whoami-shubham.github.io/posts/how-to-preprocess-data-for-regression-model/",
 				"img_url": "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/images/data.png",
 				"content": ""
 			}

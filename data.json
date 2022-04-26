@@ -3,6 +3,21 @@
 		"bio": "Web & Mobile App Developer",
 		"exp": [
                        {
+				"title": "SDE 1",
+				"org": "ShareChat",
+				"duration": "Feb 2022 - present",
+				"imgUrl": "https://upload.wikimedia.org/wikipedia/en/e/ec/ShareChat_app_logo.png",
+				"location": "Bangalore",
+				"description": [
+					"Working on react native and web part of hybrid mobile appliation"
+				],
+				"urls": [{
+					"label": "company website",
+					"src": "https://sharechat.com"
+				}],
+				"type": "Work Experience"
+			},
+                       {
 				"title": "SDE",
 				"org": "Rupeek",
 				"duration": "Aug 2021 - Feb 2022",

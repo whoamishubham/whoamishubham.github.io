@@ -24,7 +24,7 @@ jobs:
       with:
         email: ${{ secrets.EMAIL }}
         build_dir: out               # optional
-        branch: preview              # optional
+        branch: master               # optional
         cname:  shubhamjha.work      # optional
         jekyll: no                   # optional
         #commit_message: custom message # optional

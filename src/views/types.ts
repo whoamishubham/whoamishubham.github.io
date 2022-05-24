@@ -54,11 +54,21 @@ export interface CtaProps {
   message: string;
 }
 
-export interface ApiResponse {
+export interface ApiResponseData {
   cta: CtaProps;
   educations: EducationProps[];
   exp: ExperienceProps[];
   projects: ProjectProps[];
   articles: ArticleProps[];
   resumeUrl:string;
+}
+
+export interface ApiResponse {
+  data: ApiResponseData
+}
+
+export interface NavbarProps{
+  scrollToProjects?:()=>void;
+  scrollToArticles?:()=>void;
+  scroll?:()=>void;
 }

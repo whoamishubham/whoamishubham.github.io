@@ -4,14 +4,14 @@ import Navbar from "../src/views/navbar/Navbar";
 // import { Document, Page } from "react-pdf";
 // import { pdfjs } from "react-pdf";
 import style from "../styles/Resume.module.css";
-import { ApiResponse } from "../src/views/types";
+import { ApiResponse, ApiResponseData } from "../src/views/types";
 import { response } from "../src/data";
 
 // pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 const RESUME_URL =
   "https://docs.google.com/document/d/1AYRqqdhQqnxc0ys3zaNt1ptMvdf2zyGBAXPlhh0o9V4//preview";
 
-function Resume({ data }: { data: ApiResponse }) {
+function Resume({ data }: { data: ApiResponseData }) {
   const [numPages, setNumPages] = useState(null);
   const router = useRouter();
   function onDocumentLoadSuccess({ numPages }) {
@@ -55,13 +55,12 @@ export default Resume;
 // This function gets called at build time
 export async function getStaticProps() {
   // Call an external API endpoint to get posts
-  // const res = await fetch('https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/data.json')
-  let res = response; //await res.json()
-  console.log(
-    "%c shubham  ",
-    "color:green;background:black;font-size:5vw;border:1px solid red;"
+  const res = await fetch(
+    "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/data.json"
   );
-  const data = res?.data;
+  let result: ApiResponse = await res.json();
+
+  const data = result?.data;
 
   // By returning { props: { posts } }, the Blog component
   // will receive `posts` as a prop at build time

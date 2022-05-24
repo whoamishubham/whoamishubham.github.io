@@ -163,7 +163,9 @@ hr {
 .fa-linkedin:hover {
   color: #0077b5;
 }
-
+.fa-twitter{
+  color: rgb(29, 155, 240);
+}
 .bg_black {
   background: #080808;
 }

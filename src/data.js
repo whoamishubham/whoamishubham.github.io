@@ -11,7 +11,7 @@ export const response = {
 				"twitter":"https://twitter.com/whoami_shubham",
 				"gmail":"mailto:whoamishubham@gmail.com"
 			},
-			"message":"https://bit.ly/3oiipc9"
+			"message":"https://cutt.ly/UHMS0Ij"
 		},
 		"exp": [
                        {

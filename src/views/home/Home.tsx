@@ -7,7 +7,7 @@ import Articles from "../article/Articles";
 import Projects from "../project/Projects";
 import Experience, { ExperienceLoader } from "../experience/Experience";
 import style from "../../../styles/Home.module.css";
-import { ApiResponse } from "../types";
+import { ApiResponseData } from "../types";
 import Cta from "../cta/Cta";
 
 function AvatarWithText(): JSX.Element {
@@ -23,7 +23,7 @@ function AvatarWithText(): JSX.Element {
   );
 }
 
-function Home(props: ApiResponse) {
+function Home(props: ApiResponseData) {
   const { educations, projects, articles, exp, cta } = props;
   const projectRef = React.createRef<any>();
   const articleRef = React.createRef<any>();

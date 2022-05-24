@@ -71,4 +71,5 @@ export interface NavbarProps{
   scrollToProjects?:()=>void;
   scrollToArticles?:()=>void;
   scroll?:()=>void;
+  curTab?:string;
 }

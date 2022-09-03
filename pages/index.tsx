@@ -1,35 +1,46 @@
-import styles from "../styles/Home.module.css";
-import Home from "../src/views/home/Home";
-import { response } from "../src/data";
-import { ApiResponse } from "../src/views/types";
-export default function App({ data }) {
-  console.log(
-    "%c shubham  ",
-    "color:green;background:black;font-size:5vw;border:1px solid red;"
-  );
+import type { NextPage } from "next";
+import Head from "next/head";
+import Image from "next/image";
+import data from "../metaData.json";
+import About from "../components/About";
+import MainCta from "../components/MainCta";
+import SocialLinks from "../components/SocialLinks";
+import Divider from "../components/Divider";
+import Cards from "../components/Cards";
+
+type ComponentMapKeyType =
+  | "About"
+  | "MainCta"
+  | "SocialLinks"
+  | "Divider"
+  | "Cards";
+
+const componentMap = {
+  About,
+  MainCta,
+  SocialLinks,
+  Divider,
+  Cards,
+};
+
+const Home: NextPage = () => {
   return (
-    <>
-      <Home {...data} />
-    </>
+    <div className="bg-background flex justify-center w-full">
+      <Head>
+        <title>{data?.title}</title>
+        <meta name="description" content={data?.siteDescription} />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+      <div className="my-10  text-primary max-w-[1024px] flex flex-col items-start px-6">
+        {data?.components?.map((item, idx) => {
+          const key = item?.name as ComponentMapKeyType;
+          const Comp = componentMap[key];
+
+          return <Comp key={idx} data={item?.data as any} />;
+        })}
+      </div>
+    </div>
   );
-}
+};
 
-// This function gets called at build time
-export async function getStaticProps() {
-  // Call an external API endpoint to get posts
-  const res = await fetch(
-    "https://raw.githubusercontent.com/whoamishubham/whoamishubham.github.io/data/data.json"
-  );
-  let result: ApiResponse = await res.json();
-
-  const data = result?.data;
-
-  // By returning { props: { posts } }, the Blog component
-  // will receive `posts` as a prop at build time
-  return {
-    props: {
-      data,
-      isLoading: false,
-    },
-  };
-}
+export default Home;

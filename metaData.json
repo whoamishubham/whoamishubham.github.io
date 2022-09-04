@@ -54,7 +54,7 @@
     {
       "name": "Cards",
       "data":{
-        "title":"Public Content",
+        "title":"Some Public Content",
         "data": [
           {
             "title":"Npm Library",
@@ -91,6 +91,18 @@
             "description":"Hashedin University",
             "url":"https://whoami-shubham.github.io/posts/hashedin-university/",
             "titleTextClass":"text-article"
+          },
+          {
+            "title":"Mobile App",
+            "description":"Its Ok",
+            "url":"https://play.google.com/store/apps/details?id=in.co.itsok.itsok",
+            "titleTextClass":"text-webapp"
+          },
+          {
+            "title":"Test App",
+            "description":"Android Device Id",
+            "url":"https://play.google.com/store/apps/details?id=com.deviceid",
+            "titleTextClass":"text-webapp"
           }
         ]
       }
